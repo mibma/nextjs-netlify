@@ -48,7 +48,7 @@ Not Implemented due to constraints  but sugggestions are:
 
 ---
 
-## 📊 Database Schema (Simplified)
+## 📊 Database Schema (Simplified): You can find triggers and sql code as well
 
 | Table                | Description                                  |
 |---------------------|----------------------------------------------|
